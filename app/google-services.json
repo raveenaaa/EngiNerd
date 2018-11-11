@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804494055614",
+    "firebase_url": "https://myapplication-84537.firebaseio.com",
+    "project_id": "myapplication-84537",
+    "storage_bucket": "myapplication-84537.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804494055614:android:9476fbcdb6c318fa",
+        "android_client_info": {
+          "package_name": "com.example.raveena.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804494055614-0pp1uk9serk1jk0fqdbhaus4gcrc1ams.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.raveena.myapplication",
+            "certificate_hash": "9f7b9a3832ca3e14c39e4408aa13e0d1d441f55a"
+          }
+        },
+        {
+          "client_id": "804494055614-a9t2ljc39lsafmfv3rspuubaauq282l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfU3ixmXGTeh4bRRtBNM8FDpBiIJJZSDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804494055614-a9t2ljc39lsafmfv3rspuubaauq282l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
